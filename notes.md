@@ -16,3 +16,7 @@
 -   create a function to check is_palindrome(number)
 -   problem wants to find largest product, so start the loop from upper bound.
 -   for some products, it will be smaller than max_palindrome so, break the loop.
+
+### Problem 010
+
+-   implement sieve of erathosthenes
